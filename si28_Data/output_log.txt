@@ -1,0 +1,24 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiumdag.dll 8.14.10.708]
+    Renderer: ATI Mobility Radeon HD 5470
+    Vendor:   ATI
+    VRAM:     1362 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.332 seconds
+desktop: 1360x768 50Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
