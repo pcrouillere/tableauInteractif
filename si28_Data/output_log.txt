@@ -17,7 +17,7 @@ Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInterac
 Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\Pauline\Documents\UTC\GI05 - A14\SI28\tableauInteractif\si28_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.332 seconds
+- Completed reload, in  0.254 seconds
 desktop: 1360x768 50Hz; virtual: 1360x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.

@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{D9BC98FB-7B40-BA19-0E56-B05AE0EF5830}</ProjectGuid>
+	<ProjectGuid>{3051D7D8-60B3-8325-DDAA-07CBB7880EB5}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -75,8 +75,12 @@
      <Compile Include="Assets\LeanTween\LeanTweenExamples\Scripts\TestingUniqueId.cs" />
      <Compile Include="Assets\LeanTween\LeanTweenExamples\Scripts\TutorialPresentation.cs" />
      <Compile Include="Assets\LeanTween\LeanTweenExamples\Scripts\TutorialPresentationFinished.cs" />
-     <Compile Include="Assets\Script\TapTutorial.cs" />
-     <Compile Include="Assets\Script\Thomas.cs" />
+     <Compile Include="Assets\Script\Accueil\Courbet.cs" />
+     <Compile Include="Assets\Script\Accueil\Credit.cs" />
+     <Compile Include="Assets\Script\Accueil\Quitter.cs" />
+     <Compile Include="Assets\Script\Accueil\Tableaux.cs" />
+     <Compile Include="Assets\Script\Atelier\TapTutorial.cs" />
+     <Compile Include="Assets\Script\Atelier\Thomas.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCamera.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraAnchor.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraUtil.cs" />
@@ -214,9 +218,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{A3E80824-4F7E-3C93-F737-46C0B61A6EF5}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{C7687137-68A9-50DF-33BB-5A806C4EA3EE}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{9424CA99-3330-02C0-51F3-63E40E609003}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{F58830D7-7EB9-761D-317E-A7C5986388E7}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
