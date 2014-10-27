@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{6457476C-ED8E-D00F-B660-17CAC1892CC7}</ProjectGuid>
+	<ProjectGuid>{6E2D0045-FA63-D296-6E87-ECBCF45BF828}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -226,11 +226,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{A3E80824-4F7E-3C93-F737-46C0B61A6EF5}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{C7687137-68A9-50DF-33BB-5A806C4EA3EE}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{D9BC98FB-7B40-BA19-0E56-B05AE0EF5830}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{3051D7D8-60B3-8325-DDAA-07CBB7880EB5}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass-vs.csproj">
-      <Project>{3486D7D4-6799-BE7B-3ED8-8F4A98A2B63D}</Project>      <Name>Assembly-CSharp-Editor-firstpass-vs</Name>    </ProjectReference>
+      <Project>{AE68819D-7EA4-D39C-F47C-BF17B7F689BC}</Project>      <Name>Assembly-CSharp-Editor-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
