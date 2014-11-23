@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Atelier\Animation.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\RV01\SketchYourWorld\Assets\Game Scripts\Sixense\Controller Scripts\YourPlayerController.cs">
     <Files>
-      <File FileName="Assets\Script\Atelier\Animation.cs" Line="21" Column="40" />
-      <File FileName="Assets\Script\Atelier\Thomas.cs" Line="16" Column="39" />
-      <File FileName="Assets\Script\Atelier\TapTutorial.cs" Line="23" Column="74" />
+      <File FileName="..\..\RV01\SketchYourWorld\Assets\Game Scripts\Sixense\Controller Scripts\YourPlayerController.cs" Line="13" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
