@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\RV01\SketchYourWorld\Assets\Game Scripts\Sixense\Controller Scripts\YourPlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Ornant\TapOrnant.cs">
     <Files>
-      <File FileName="..\..\RV01\SketchYourWorld\Assets\Game Scripts\Sixense\Controller Scripts\YourPlayerController.cs" Line="13" Column="29" />
+      <File FileName="Assets\Script\Ornant\TapOrnant.cs" Line="36" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

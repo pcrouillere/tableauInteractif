@@ -10,6 +10,7 @@ public class TapTutorial : MonoBehaviour {
 				Debug.Log ("Thomas has been taped");
 				gesture.Selection.GetComponent<tk2dSprite>().color = new Color (1,1,1,1);
 				gesture.Selection.GetComponent<tk2dSpriteAnimator>().PlayFromFrame(0);
+				gesture.Selection.GetComponent<AudioSource>().Play();
 			}
 
 			if ( gesture.Selection.name == "Ghost" ) {
@@ -23,18 +24,34 @@ public class TapTutorial : MonoBehaviour {
 				Debug.Log ("Dress has been taped");
 				gesture.Selection.GetComponent<tk2dSprite>().color = new Color (1,1,1,1);
 				gesture.Selection.GetComponent<tk2dSpriteAnimator>().PlayFromFrame(0);
+				gesture.Selection.GetComponent<AudioSource>().Play();
 			}
 
 			if ( gesture.Selection.name == "Dog" ) {
 				Debug.Log ("Dog has been taped");
 				gesture.Selection.GetComponent<tk2dSprite>().color = new Color (1,1,1,1);
 				gesture.Selection.GetComponent<tk2dSpriteAnimator>().PlayFromFrame(0);
+				gesture.Selection.GetComponent<AudioSource>().Play();
 			}
 
 			if ( gesture.Selection.name == "Taches" ) {
 				Debug.Log ("Taches has been taped");
 				gesture.Selection.GetComponent<tk2dSprite>().color = new Color (1,1,1,1);
 				gesture.Selection.GetComponent<tk2dSpriteAnimator>().PlayFromFrame(0);
+				gesture.Selection.GetComponent<AudioSource>().Play();
+			}
+
+			if ( gesture.Selection.name == "Dog" ) {
+				Debug.Log ("Dog has been taped");
+				gesture.Selection.GetComponent<tk2dSprite>().color = new Color (1,1,1,1);
+				gesture.Selection.GetComponent<tk2dSpriteAnimator>().PlayFromFrame(0);
+				gesture.Selection.GetComponent<AudioSource>().Play();
+			}
+			if ( gesture.Selection.name == "Love" ) {
+				Debug.Log ("Dog has been taped");
+				gesture.Selection.GetComponent<tk2dSprite>().color = new Color (1,1,1,1);
+				gesture.Selection.GetComponent<tk2dSpriteAnimator>().PlayFromFrame(0);
+				gesture.Selection.GetComponent<AudioSource>().Play();
 			}
 		}
 	}
