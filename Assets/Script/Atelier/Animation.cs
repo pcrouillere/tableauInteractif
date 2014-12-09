@@ -31,11 +31,26 @@ public class Animation : MonoBehaviour {
 				if (GetComponent<tk2dSpriteAnimator> ().CurrentFrame == nbframe) {
 					GetComponent<tk2dSprite>().color = new Color (1,1,1,0);
 					GetComponent<tk2dSpriteAnimator>().Stop();
+					if (gameObject.name=="Ghost"){}
+					else if (gameObject.name=="Party" || gameObject.name=="PopCorn") {
+						fadeOut(GetComponent<AudioSource>());
+					}
+					else {
+						GetComponent<AudioSource>().Stop();
+					}
 				}
 			}
 		}
 	}
 	void OnMouseOver() {
 	}
+
+	void fadeOut(AudioSource aSource) {
+				if (aSource.volume > 0.1F) {
+						aSource.volume -= 0.5F * Time.deltaTime;
+				} else {
+						aSource.Stop ();
+				}
+		}
 
 }
